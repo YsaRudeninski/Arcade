@@ -1,0 +1,112 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url('../images/back.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.all{
+    
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+    overflow-x: hidden;
+    opacity: 100%;
+    font-family: 'Cantarell', sans-serif;
+}
+
+.top{
+    background-color: #181818;
+    color: #fff;
+    opacity: 100%;
+    margin: 0;
+    height: 6.5vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    border-width: 2px;
+    border-color: #000;
+}
+
+.content{
+    padding-top: 8vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    font-size: large;
+    text-align: justify;
+    opacity: 100%;
+}
+
+.service{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10vw;
+    padding: 10px;
+}
+
+#game{
+    padding: 10px;
+    margin: 30px;
+    border: solid;
+    border-color: #000;
+    border-radius: 5px;
+    background-color: #1f1f1f;
+}
+
+#desc{
+    margin: 1px;
+    text-decoration:underline;
+    text-decoration-color:#00caa5;
+}
+
+#cover{
+    height: 200px;
+    width: auto;
+    border: solid;
+    border-color: #fff;
+    border-width: 2px;
+    margin: 2px;
+}
+
+.team{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 80%;
+    justify-content: center;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding: 20px;
+    background:transparent;
+    border-radius: 20px;
+    border: solid;
+    border-color: #000;
+    border-width: 2px;
+}
+
+#member{
+    display: flex;
+    height: fit-content;
+    width: fit-content;
+    margin: 30px;
+}
+
+#pfp{
+    height: 110px;
+    width: auto;
+    border-radius: 50%;
+}
+
+#align-mbr{
+    align-items: center;
+    justify-content: center;
+    height: 64px;
+    padding: 5px;
+}

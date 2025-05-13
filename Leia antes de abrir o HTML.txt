@@ -1,6 +1,0 @@
-Siga o seguinte caminho:
-
-images/logos
-
-E siga as intruções presentes no arquivo .txt
-Ao finalizar pode executar o html.

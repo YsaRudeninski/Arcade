@@ -1,7 +1,0 @@
-O site deverá constar:
-1) Texto sobre a empresa;
-2) Imagem da empresa;
-3) Produtos os serviços realizadas da empresa;
-4) Equipe de desenvolvimento, destacando a função exercida na empresa, com
-imagem do membro da equipe, ou imagem de avatar representando cada
-membro da equipe.

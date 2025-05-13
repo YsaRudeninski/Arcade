@@ -1,6 +1,6 @@
-## LEIA ANTES DE ABRIR O HTML
-Há alguns arquivos que eram grandes demais para o GitHub.\
-Por isso foi preciso dividir os arquivos em 17 arquivos .ZIP
+## <div align="center">LEIA ANTES DE ABRIR O HTML</div>
+Há alguns arquivos que eram grandes demais para subir no GitHub.\
+Por isso, foi necessário dividir os arquivos em 17 arquivos .ZIP.
 
 - ### **Faça o seguinte caminho:**</br>
   _`images/logos/extrair`_

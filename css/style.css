@@ -1,0 +1,142 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url('../images/back.png');
+    background-color: #181818;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    cursor: url('../images/csr.png'), auto;
+}
+
+.all{
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+    overflow-x: hidden;
+    font-family: 'Cantarell', sans-serif;
+}
+
+.top{
+    background-color: #181818;
+    color: #fff;
+    opacity: 100%;
+    margin: 0;
+    height: 7vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    border-width: 2px;
+    border-color: #000;
+    position: fixed;
+}
+
+.content{
+    padding-top: 8vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
+    font-size: large;
+    text-align: justify;
+    opacity: 100%;
+}
+
+#article{
+    margin: auto;
+    max-width: 90%;
+    text-align: justify;
+}
+
+#logo{
+    height: 70px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.service{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10vw;
+    padding: 10px;
+}
+
+#game{
+    padding: 10px;
+    margin: 30px;
+    border: solid;
+    border-color: #4ec9ff;
+    border-radius: 5px;
+    background-color: #1f1f1f;
+}
+
+#desc{
+    margin: 1px;
+    text-decoration:underline;
+    text-decoration-color:#00caa5;
+}
+
+#cover{
+    height: 200px;
+    width: auto;
+    border: solid;
+    border-color: #fff;
+    border-width: 2px;
+    margin: 2px;
+}
+
+.team{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 2;
+    max-width: 90%;
+    justify-content: center;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding: 50px;
+    border-radius: 20px;
+    border: solid;
+    border-color: #4ec9ff;
+    border-width: 2px;
+    background-color: #181818;
+}
+
+#member{
+    display: flex;
+    height: 110px;
+    width: 300px;
+    margin: 20px;
+}
+
+#pfp{
+    height: 110px;
+    width: auto;
+    border-radius: 50%;
+    border: solid;
+    border-width: 2.5px;
+    border-color: #4ec9ff;
+}
+
+#align-mbr{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    height: auto;
+    margin-left: 8px;
+    padding: 5px;
+    text-decoration: underline;
+    text-decoration-color: #4ec9ff;
+}
+
+a{
+  text-decoration-color: #1f1f1f;
+  color: #fff;
+  
+}
+
